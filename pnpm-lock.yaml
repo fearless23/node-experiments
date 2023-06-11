@@ -1,0 +1,12 @@
+lockfileVersion: '6.0'
+
+dependencies:
+  tinybench:
+    specifier: ^2.5.0
+    version: 2.5.0
+
+packages:
+
+  /tinybench@2.5.0:
+    resolution: {integrity: sha512-kRwSG8Zx4tjF9ZiyH4bhaebu+EDz1BOx9hOigYHlUW4xxI/wKIUQUqo018UlU4ar6ATPBsaMrdbKZ+tmPdohFA==}
+    dev: false
